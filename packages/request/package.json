@@ -1,5 +1,5 @@
 {
-  "name": "@wwt/request",
+  "name": "@earjs/request",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "9f6003c31206521d3a1ae9f8fc9f5eff50e5721f"
 }

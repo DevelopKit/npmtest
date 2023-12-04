@@ -1,5 +1,5 @@
 {
-  "name": "@wwt/modulec",
+  "name": "@earjs/modulec",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "翟强 <zhaiq@weipaitang.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/DevelopKit/npmtest/issues"
-  }
+  },
+  "gitHead": "9f6003c31206521d3a1ae9f8fc9f5eff50e5721f"
 }

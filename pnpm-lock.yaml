@@ -21,16 +21,16 @@ importers:
 
   packages/moduleA:
     dependencies:
-      '@wwt/utils':
+      '@earjs/utils':
         specifier: workspace:*
         version: link:../utils
 
   packages/moduleB:
     dependencies:
-      '@wwt/request':
+      '@earjs/request':
         specifier: workspace:*
         version: link:../request
-      '@wwt/utils':
+      '@earjs/utils':
         specifier: workspace:*
         version: link:../utils
 

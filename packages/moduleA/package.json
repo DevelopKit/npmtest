@@ -1,5 +1,5 @@
 {
-  "name": "@wwt/modulea",
+  "name": "@earjs/modulea",
   "version": "1.0.1-alpha.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@wwt/utils": "workspace:*"
+    "@earjs/utils": "workspace:*"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "9f6003c31206521d3a1ae9f8fc9f5eff50e5721f"
 }
