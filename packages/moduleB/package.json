@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@wwt/utils": "workspace:*",
-    "@wwt/request": "workspace:*"
+    "@wwt/request": "workspace:*",
+    "@wwt/utils": "workspace:*"
   },
   "keywords": [],
   "author": "",
