@@ -19,6 +19,12 @@ importers:
         specifier: ^5.0.4
         version: 5.0.4
 
+  example:
+    dependencies:
+      '@earjs/utils':
+        specifier: workspace:^
+        version: link:../packages/utils
+
   packages/moduleA:
     dependencies:
       '@earjs/utils':
