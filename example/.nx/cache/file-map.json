@@ -10,14 +10,6 @@
     "projectFileMap": {},
     "nonProjectFiles": [
       {
-        "file": ".nx/cache/file-map.json",
-        "hash": "3562472945656586402"
-      },
-      {
-        "file": ".nx/cache/project-graph.json",
-        "hash": "17289852913997677231"
-      },
-      {
         "file": "package.json",
         "hash": "14255569715973657941"
       }
