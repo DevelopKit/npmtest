@@ -9,3 +9,7 @@ export function plus(a,b) {
 export function log(a,b) {
     return add(a,b)
 }
+
+export function add1(a,b) {
+    return add(a,b)
+}
